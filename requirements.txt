@@ -1,0 +1,4 @@
+openpyxl
+savReaderWriter>=3.3.0 --allow-all-external
+pandas
+click
